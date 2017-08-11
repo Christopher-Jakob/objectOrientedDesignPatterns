@@ -30,3 +30,7 @@ The factories that build the object
 The final objects
 The final objects contain objects that use the strategy pattern 
 Where Object class fields are objects
+
+# Singleton Design Pattern
+
+Used when you want to eliminate the option of instantiating more than one object
