@@ -20,3 +20,13 @@ random number generator picks a number assigned to a specific enemy
 factory returns an enemy associated with that number 
 
 the class is chosen at runtime
+
+# Abstract Factory Pattern
+
+Like a factory but everything is encapsulated
+
+The method that orders the object
+The factories that build the object
+The final objects
+The final objects contain objects that use the strategy pattern 
+Where Object class fields are objects
